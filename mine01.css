@@ -1,0 +1,13 @@
+#content{ 
+	color: red;
+	font-family: all;
+	font-size:20px;
+	background-color: #00FFFF;
+	height:250px;
+	width: 310px;
+	margin: 10px auto;
+	padding: 2px;
+}
+h3{
+	text-decoration: underline;
+}

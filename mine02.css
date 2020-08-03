@@ -1,0 +1,11 @@
+#content{ 
+	color: yellow;
+	font-family: all;
+	font-size:20px;
+	background-color: green;
+	height:150px;
+	width: 310px;
+	margin: 10px auto;
+	padding: 2px 2px 4px 2px;
+	padding-bottom: 4px;
+}
